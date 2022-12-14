@@ -13,7 +13,7 @@ public class VendingMachine {
     }
 
     public VendingMachine() {
-        this(DEFAULT); // вызов конструктора
+        this(DEFAULT); 
     }
 
     public String toString() {
