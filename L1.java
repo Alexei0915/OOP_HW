@@ -21,9 +21,9 @@ public class L1 {
         System.out.println(mach2.findByPrice(12));
         System.out.println(mach2.findByPriceRange(9,13));
 
-        List<Product> candys = new ArrayList<>();
-        candys.add(new Candy("night", 20, "caramel", "delicious"));
-        candys.add(new Candy("bird milk", 30, "milk", "bruh"));
+        List<Product> chocolate = new ArrayList<>();
+        chocolate.add(new chocolate("dark", 20, "tile", "good"));
+        chocolate.add(new chocolate("milk", 30, "milk", "great"));
     }
     
 }
