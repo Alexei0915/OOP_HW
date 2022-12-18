@@ -1,5 +1,5 @@
-public class chocolate extends Product {
-    public chocolate(String name, double price,String type, String flavor) {
+public class Сhocolate extends Product {
+    public Сhocolate(String name, double price,String type, String flavor) {
         super(name, price);
         this.setType(type);
         this.setFlavor(flavor);
